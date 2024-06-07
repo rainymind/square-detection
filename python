@@ -1,10 +1,10 @@
 import cv2
 import numpy as np
 
-# Load the image
+# Load the image.
 image = cv2.imread('your_image.jpg')
 
-# Convert the image to grayscale
+# Convert the image to grayscale.
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # Detect squares in the image
