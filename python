@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# Load the image.850
+# Load the image.850000000000000000000000
 image = cv2.imread('your_image.jpg')
 
 # Convert the image to grayscale.
